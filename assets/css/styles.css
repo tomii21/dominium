@@ -723,7 +723,9 @@ footer.entry-meta .meta-in {
 .section-title div{
   margin: 0 auto;
 }
-
+.topspace div div div{
+margin-bottom: 1em;
+}
 }
 
 table{
