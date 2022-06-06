@@ -777,6 +777,13 @@ table thead th{
   position: relative;
 }
 
+
+.timeline img{
+width: 30%;
+}
+
+
+
 .timeline ul {
   list-style: none;
 }
