@@ -12,6 +12,16 @@ body {
   margin-top: 40px;
 
 }
+.topspace  p{
+text-align: center;
+font-family: 'Quicksand', sans-serif;
+}
+.topspace  div div div{
+border: solid #c4c4c4 1px;
+padding: 1em 0.5em 1em 0.5em;
+
+}
+
 
 /*********************************************************************
 
@@ -28,24 +38,7 @@ body {
 
 
 *****************************************************************************************/
-.nav-side {
-  font-size: 24px;
-  font-size: 1.5rem;
-  font-weight: 300;
-  margin-top: -0.37em;
-}
-.nav-side > li > a {
-  padding-top: 5px;
-  padding-bottom: 5px;
-  color: #f392b4;
-}
-.nav-side > li > a:hover {
-  color: #bd1550;
-  background: none;
-}
-.nav-side > li.active > a {
-  color: #bd1550;
-}
+
 /*********************************************************************
 
 
@@ -722,17 +715,14 @@ footer.entry-meta .meta-in {
     display: block;
     overflow-x: auto;
   }
+  .section-title{
+    text-align: center;
+  }
+  .section-title div{
+    text-align: center;
+  }
 }
-@media screen and (min-width: 400px) {
-  .container {
-    width: 100%;
-  }
-  table{
-    display: block;
-    overflow-x: auto;
-  }
 
-}
 
 table{
   text-align: left;
