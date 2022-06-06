@@ -720,11 +720,10 @@ footer.entry-meta .meta-in {
   .section-title{
     text-align: center;
   }
-.section-title div div{
-  margin: 0 auto;
-}
+
 .topspace div div div{
 margin-bottom: 1em;
+margin: 0 auto;
 }
 }
 
