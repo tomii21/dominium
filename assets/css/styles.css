@@ -707,9 +707,11 @@ footer.entry-meta .meta-in {
     max-width: 1080px;
   }
 }
+
+
 @media screen and (min-width: 400px) {
   .container {
-    width: 400px;
+    width: 100%;
   }
   table{
     display: block;
@@ -718,11 +720,11 @@ footer.entry-meta .meta-in {
   .section-title{
     text-align: center;
   }
-  .section-title div{
-    text-align: center;
-  }
+.section-title div{
+  margin: 0 auto;
 }
 
+}
 
 table{
   text-align: left;
