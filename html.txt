@@ -1,14 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <!DOCTYPE html>
-<html lang="en">
 
 <head>
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -101,13 +92,29 @@
                         <a class="nav-link page-scroll" href="#details">Detalles</a>
                     </li>
 
-                   
+                    <!-- Dropdown Menu -->
+                    <!-- <li class="nav-item dropdown">
+                    
+                        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                            <a class="dropdown-item" href="article-details.html"><span class="item-text">ARTICLE
+                                    DETAILS</span></a>
+                            <div class="dropdown-items-divide-hr"></div>
+                            <a class="dropdown-item" href="terms-conditions.html"><span class="item-text">TERMS
+                                    CONDITIONS</span></a>
+                            <div class="dropdown-items-divide-hr"></div>
+                            <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">PRIVACY
+                                    POLICY</span></a>
+                        </div>
+                    </li> -->
+                    <!-- end of dropdown menu -->
 
                     <li class="nav-item">
                         <a class="nav-link page-scroll" href="#pricing">Propuestas</a>
                     </li>
                 </ul>
-           
+                <!--     <span class="nav-item">
+                    <a class="btn-outline-sm" href="log-in.html">LOG IN</a>
+                </span> -->
             </div>
         </div> <!-- end of container -->
     </nav> <!-- end of navbar -->
@@ -123,7 +130,7 @@
                         <div class="text-container">
                             <h1>¡Te ayudo a construir tu web!</h1>
                             <p class="p-large">¡Hola! Mi nombre es Tomás y soy desarrollador web Full stack, lo que significa que 
-                              desarrollare tanto la vista de tu pagina como todo lo que hay detras.</p>
+                              desarrollo tanto la vista de tu pagina como todo lo que hay detras.</p>
                               <p class="p-large">¡Tendras una pagina diseñada con las ultimas tendencias!</p>
                             <p class="p-large">Te acompaño desde el inicio hasta que tengas tu web online.</p>
                             <a class="btn-solid-lg page-scroll"
@@ -228,7 +235,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <!-- <div class="above-heading">FEATURES</div> -->
-                    <h2 class="h2-heading">Tecnologías que se usan</h2>
+                    <h2 class="h2-heading">Tenes que saber</h2>
                     <p class="p-heading">Se utilzan las herramientas mas modernas del mercado actual y que estan
                         respaldadas por empresas como Facebook, Microsoft, etc.</p>
                 </div> <!-- end of col -->
@@ -633,7 +640,7 @@
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
                                     <i class="fas fa-check"></i>
-                                    <div class="media-body">Servicios o producto</div>
+                                    <div class="media-body">Exposición de servicios</div>
                                 </li>
                                 <li class="media">
                                     <i class="fas fa-check"></i>
@@ -693,7 +700,7 @@
                             <ul class="list-unstyled li-space-lg">
                                 <li class="media">
                                     <i class="fas fa-check"></i>
-                                    <div class="media-body">Servicios o producto</div>
+                                    <div class="media-body">Exposición de servicios</div>
                                 </li>
 
                                 <li class="media">
@@ -1151,6 +1158,4 @@
     <script src="js/scripts.js"></script> <!-- Custom scripts -->
 </body>
 
-</html>
-</body>
 </html>
